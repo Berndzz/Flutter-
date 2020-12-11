@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # mini_project_04
 
 A new Flutter application.
@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Flutter-
 "Code Dart Programming menggunakan Flutter framework"
->>>>>>> 68534bcce4cc3409da6bb66060c2341fc650a477
+
